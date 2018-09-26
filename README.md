@@ -1,3 +1,3 @@
 # datamercury
 
-![alt-text](link)
+![alt-text](https://github.com/khafidmedheb/datamercury/blob/master/video_release)
